@@ -58,7 +58,8 @@ Objective
 
 ## Results & Insights
 
-* KMeans performed better than Agglomerative Clustering in terms of cluster separation
+* KMeans created clearly separable customer groups based on income and spending
+* Agglomerative clustering showed overlapping clusters, making segmentation less interpretable
 * PCA helped improve clustering efficiency
 * Identified distinct customer segments based on income, age, and spending behavior
 
@@ -111,7 +112,13 @@ python main.py
 
 ---
 
+## Business Impact
+- Enables targeted marketing campaigns
+- Helps identify high-value customers
+- Improves customer retention strategies
 ## Future Improvements
+
+---
 
 * Deploy as a web dashboard
 * Add real-time recommendation system
