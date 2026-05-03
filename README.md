@@ -68,13 +68,19 @@ Objective
 
 * Elbow Method Graph
 
+! [image alt](https://github.com/Anurag1466/smart-cart-customer-segmentation/blob/76b505e9bae12451078dbfb06a74e467e7dd910e/Screenshot%202026-05-03%20183009.png)
 
+* KMeans Clustering Visualization
 
-* Cluster Scatter Plot
-* PCA Visualization
+![image alt](https://github.com/Anurag1466/smart-cart-customer-segmentation/blob/76b505e9bae12451078dbfb06a74e467e7dd910e/Screenshot%202026-05-03%20182823.png)
+
+* Agglomerative Clustering Visualization
+
+![image alt](https://github.com/Anurag1466/smart-cart-customer-segmentation/blob/76b505e9bae12451078dbfb06a74e467e7dd910e/Screenshot%202026-05-03%20182935.png)
+
 * Pairplot for Outlier Detection
 
-(Add images here)
+![image alt](https://github.com/Anurag1466/smart-cart-customer-segmentation/blob/76b505e9bae12451078dbfb06a74e467e7dd910e/Screenshot%202026-05-03%20181040.png)
 
 ---
 
