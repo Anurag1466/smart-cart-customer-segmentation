@@ -116,9 +116,9 @@ python main.py
 - Enables targeted marketing campaigns
 - Helps identify high-value customers
 - Improves customer retention strategies
-## Future Improvements
 
 ---
-
+  
+## Future Improvements
 * Deploy as a web dashboard
 * Add real-time recommendation system
